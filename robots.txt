@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salehmoezi2024-png.github.io/batijojo/sitemap.xml
